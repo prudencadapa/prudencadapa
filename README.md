@@ -9,9 +9,9 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="Images/coding_2.gif">
-  <source media="(prefers-color-scheme: light)" srcset="/Images/coding.gif" />
-  <img width="40%" align="right" alt="Github Header" src="Images/coding_2.gif" />
+  <source media="(prefers-color-scheme: dark)" srcset="Images/coding_dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="/Images/coding_light.gif" />
+  <img width="40%" align="right" alt="Github Header" src="Images/coding_dark.gif" />
 </picture>
 
 <h3 align="left">Interests:</h3>
