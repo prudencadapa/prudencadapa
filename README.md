@@ -11,7 +11,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="Images/coding_light.gif">
   <source media="(prefers-color-scheme: light)" srcset="/Images/coding_dark.gif" />
-  <img width="40%" align="right" alt="Github Header" src="Images/coding_light.gif" />
+  <img width="30%" align="right" alt="Github Header" src="Images/coding_light.gif" />
 </picture>
 
 <h3 align="left">Interests:</h3>
